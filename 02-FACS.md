@@ -1,5 +1,7 @@
 #FACS analysis of yeast samples
+##Materials
 
+##Method
 * Spin down 1-2 ml of culture at 5*10<sup>6</sup> cell/ml;
 * Resuspend the pellet in 1 ml of filtered 70% ethanol @ -20°C;
 * Fix  at 4°C at least two hours or overnight;
