@@ -1,4 +1,4 @@
-#FACA analysis of yeast samples
+#FACS analysis of yeast samples
 
 * Spin down 1-2 ml of culture at 5*10<sup>6</sup> cell/ml;
 * Resuspend the pellet in 1 ml of filtered 70% ethanol @ -20°C;
