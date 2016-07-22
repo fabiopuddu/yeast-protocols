@@ -1,5 +1,6 @@
 ##Protein extracts in TCA yeast
-
+This protocols allows for protein extraction in denaturing conditions, 
+therby it is best used to preserve the post translational modifications of proteins
 ### Materials
 
 ### Method:
