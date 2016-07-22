@@ -1,4 +1,4 @@
-#FACS analysis of yeast samples
+#FACS analysis
 ##Materials
 
 ##Method
