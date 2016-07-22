@@ -1,8 +1,8 @@
-#Yeast protein extracts in TCA
+##Yeast protein extracts in TCA
 
-## Materials
+### Materials
 
-## Method:
+### Method:
   * Start from 10 ml of an exponentially growing culture at a concentration of 8⋅10<sup>6</sup> cell/ml
   * Spin down the cells 2 minutes @ 4000 rpm in 50 ml tubes
   * Resuspend the pellets in 1 ml of 20% TCA (Trichloroacetic Acid)
