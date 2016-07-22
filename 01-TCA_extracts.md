@@ -1,4 +1,4 @@
-#Protein extracts in TCA
+#Protein extracts in TCA yeast
 
 # Materials
 
