@@ -1,8 +1,10 @@
-##Protein extracts in TCA yeast
+##Yeast Protein extracts in TCA
 This protocols allows for protein extraction in denaturing conditions, 
 therby it is best used to preserve the post translational modifications of proteins
 ### Materials:
-
+* 20% TCA
+* 5% TCA
+* 6X protein Blue
 ### Method:
   * Start from 10 ml of an exponentially growing culture at a concentration of 8⋅10<sup>6</sup> cell/ml
   * Spin down the cells 2 minutes @ 4000 rpm in 50 ml tubes
