@@ -2,8 +2,8 @@
 ###Materials
 
 ###Method
-####Cassette PCR Mix Preparation
-* Prepare the following Mix
+* Prepare the following Master Mix
+
 | Reagent 				 |	Volume |
 |---|---|
 |F1 or F2 Oligonucleotide| 	5 μl   |
@@ -16,8 +16,8 @@
 *In case of NATMX cassettes add 5% DMSO*
 * Mix and aliquote 100 μl in each eppendorf tube.
 
-####PCR program
-
+|PCR program|
+|---|
 |2' @ 95°C
 |---|
 |1' @ 94°C
