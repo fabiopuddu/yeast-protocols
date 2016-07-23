@@ -2,7 +2,7 @@
 ###Materials
 
 ###Method
-* Prepare the following Master Mix
+* Prepare the following Master Mix:
 
 | Reagent 				 |	Volume |
 |---|---|
@@ -14,7 +14,8 @@
 |H2O                     | 382.5 μl|
 |Taq                     |  2.5 μl |
 *In case of NATMX cassettes add 5% DMSO*
-* Mix and aliquote 100 μl in each eppendorf tube.
+* Mix and aliquote 100 μl in each 0.2 ml PCR eppendorf tube.
+* Run the following PCR program:
 
 |PCR program|
 |---|
