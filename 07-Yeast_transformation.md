@@ -2,6 +2,7 @@
 
 ###Materials
 Transformation Mix (tMIX)
+
 | Reagent 				 |	X1 | X5 | X10|X15|X20|
 |---|---|---|---|---|---|
 |50% PEG 4000| 	240 μl   |1200 μl   |2400 μl   |3600 μl   |4800 μl   |
