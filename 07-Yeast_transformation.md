@@ -11,6 +11,7 @@ Transformation Mix (tMIX)
 |H<sub>2</sub>O        |  74 μl  | 370 μl  | 740 μl  | 1110 μl  | 1480 μl  |
 |---|---|---|---|---|---|
 |Final Volume |  360 μl   | 1800 μl   | 3600 μl   | 5400 μl   | 7200 μl   |
+
 *ssDNA must be freshly denatured every time by boiling at 95°C for 10 minutes*
 
 ###Method
