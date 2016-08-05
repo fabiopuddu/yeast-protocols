@@ -15,6 +15,7 @@
 |Taq                     |  2.5 μl |
 
 *In case of NATMX cassettes add 5% DMSO*
+
 * Mix and aliquote 100 μl in each 0.2 ml PCR eppendorf tube.
 * Run the following PCR program:
 
