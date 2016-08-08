@@ -1,8 +1,9 @@
-##FACS analysis
+##DAPI nuclear staining
+
 ###Materials
 
 ###Method
-* Harverst 1 ml of yeast culture at 5*10<sup>6 </sup>cell/ml;	 	 
+* Harverst 1 ml of yeast culture at 5⋅10<sup>6 </sup>cell/ml;	 	 
 * Fix them with 2 ml EtOH 100% for at least 30 minutes;	 
 * Wash the cells twice with 2 ml 1X PBS;	 	 
 * Resuspend in 1 ml 1X PBS;	 	 

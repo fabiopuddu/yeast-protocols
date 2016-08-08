@@ -1,6 +1,8 @@
 ##Yeast Mating with diploid Isolation
 ###Materials
 
+* YPD plates
+
 ###Method
 * In the evening inoculate a small amount of the two strains to be mated in 5ml YPD;
 * Incubate static at 30°C overnight;

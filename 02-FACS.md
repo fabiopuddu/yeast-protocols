@@ -2,7 +2,7 @@
 ###Materials
 
 ###Method
-* Spin down 1-2 ml of culture at 5*10<sup>6</sup> cell/ml;
+* Spin down 1-2 ml of culture at 5⋅10<sup>6</sup> cell/ml;
 * Resuspend the pellet in 1 ml of filtered 70% ethanol @ -20°C;
 * Fix  at 4°C at least two hours or overnight;
 * Spin down and resuspend in 500 μl of 1 mg/ml RNase A obtained by diluting the 10X stock 1:10 in 50mM Tris-Cl pH 7.5;

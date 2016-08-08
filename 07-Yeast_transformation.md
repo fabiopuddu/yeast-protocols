@@ -14,8 +14,10 @@ Transformation Mix (tMIX)
 
 *ssDNA must be freshly denatured every time by boiling at 95°C for 10 minutes*
 
+--
+
 ###Method
-* Start from exponentially growing cells at a concentration of 5*10<sup>6</sup>: 10 ml for each transformation reaction;
+* Start from exponentially growing cells at a concentration of 5⋅10<sup>6</sup>: 10 ml for each transformation reaction;
 * Prepare the required amount of tMIX
 * Pellet 50 ml (=for 5 transformations) of cells 4' in a 50 ml tube at 4000 rpm at room temperature;
 * Wash the cells with 25 ml of sterile water;

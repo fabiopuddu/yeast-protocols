@@ -2,11 +2,11 @@
 
 ###Materials
 
-Strains to be analysed
-Tester strain (6122a or 6122alpha, depending on the mating type of the strains to be analysed)
-YPD plates
--AA plates
-Sterile glass beads for plating
+* Strains to be analysed
+* Tester strain (6122a or 6122alpha, depending on the mating type of the strains to be analysed)
+* YPD plates
+* -AA plates
+* Sterile glass beads for plating
 
 --
 
