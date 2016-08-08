@@ -8,10 +8,10 @@ YPD plates
 -AA plates
 Sterile glass beads for plating
 
+--
+
 ###Method
 * Inoculate the strains to be analysed and the tester strain in 5 ml YPD and grow ~24 hours to saturation
-
---
 * Dry the plates very well
 * Seed the -AA plates with a lawn of the tester strain
   * Plate 200 µl of the saturated colture
