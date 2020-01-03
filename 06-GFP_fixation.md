@@ -1,4 +1,5 @@
 ####Fixation of GFP-tagged proteins
+
 #####Materials
 * Fixing Solution (4% paraformaldehyde, 3.4% sucrose)
 * Wash Solution (100 mM potassium phosphate pH 7.5, 1.2 M sorbitol)
