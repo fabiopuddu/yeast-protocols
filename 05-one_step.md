@@ -23,7 +23,7 @@
 * Mix and aliquote 100 μl in each 0.2 ml PCR eppendorf tube.
 * Run the following PCR program:
 
-|PCR program|---|---|---|
+|PCR program| | |
 |---|---|---|
 |2' | 95°C|   |
 |---|---|---|
